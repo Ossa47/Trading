@@ -1,5 +1,5 @@
 // This work is licensed under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
-// © Zeiierman
+// © Ossa47
 
 //@version=5
 indicator("VFTE",overlay=true,max_boxes_count=500,max_lines_count=500)
